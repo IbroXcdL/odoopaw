@@ -1,0 +1,28 @@
+{
+  "name": "DanLo",
+  "short_name": "DanLo",
+  "description": "Description of your website or app.",
+  "start_url": "https://www.danlo.in",
+  "display": "standalone",
+  "background_color": "#ee6912",
+  "theme_color": "#ee6919",
+  "icons": [
+    {
+      "src": "path/to/your/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "path/to/your/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": [
+    {
+      "src": "path/to/your/splashscreen.png",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    }
+  ]
+}
